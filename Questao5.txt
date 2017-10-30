@@ -1,0 +1,2 @@
+	Está dando erro porque o tipo da variável está como inteiro, se usássemos tipos que conseguem armazenar uma quantidade maior de dados como float ou double por exemplo, o código roda-
+ria sem nenhum problema, no entanto como estamos usando o tipo int o limite de dados e menor e assim ocasiona erros.
